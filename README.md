@@ -30,5 +30,3 @@ A Django-based banking system application.
 - User account management
 - Banking transactions
 - Admin interface
-
-© 2025 Developed by Dean Prananta
